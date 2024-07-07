@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: scroll;
+}
+
+.webgl
+{
+    position: absolute;
+    top: 0;
+    left: 50vw;
+    width: 50vw;
+    height: 100vh;
+    outline: none;
+    border: solid 1px black;
+}

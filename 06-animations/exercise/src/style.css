@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    overflow:scroll;
+}
+
+.webgl
+{
+    position: absolute;
+    top: 100vh;
+    left: 0;
+    outline: none;
+    z-index: -100;
+}
+
+.h {
+    position: absolute;
+    top: 100vh;
+    left: 0;
+    color: aliceblue;
+}
+
+.de {
+    position: absolute;
+    top: 200vh;
+    left: 0;
+    color: black;
+}

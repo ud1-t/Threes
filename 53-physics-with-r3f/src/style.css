@@ -1,0 +1,26 @@
+html,
+body
+{
+    overflow:scroll;
+}
+
+#root
+{
+    position: absolute;
+    top: 100vh;
+    left: 0;
+    width: 40vw;
+    height: 100vh;
+    background: ivory;
+    border: solid 1px black;
+}
+#root1
+{
+    position: absolute;
+    top: 100vh;
+    left: 50vw;
+    width: 50vw;
+    height: 100vh;
+    background: ivory;
+    border: solid 1px black;
+}
